@@ -1,8 +1,8 @@
 # Instructions
 
-Wonjun Kang (1430538)
+## Wonjun Kang (1430538)
 
-**TODO:** Add your screen captures to a new directory called [images](images).
+Add your screen captures to a new directory called [images](images).
 ![Screen Capture #1](images/image-01.png)
 
 <!-- **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
@@ -62,3 +62,4 @@ The first argument is the Alt-text for the image. The second argument is the pat
   ![Screen Capture #12](images/image-12.png)
 
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+  - hello-world/build.gradle: [https://github.com/depaulcdm/hw4-sub-wk/blob/master/hello-world/build.gradle](https://github.com/depaulcdm/hw4-sub-wk/blob/master/hello-world/build.gradle)
