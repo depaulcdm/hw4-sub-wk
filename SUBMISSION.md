@@ -3,7 +3,7 @@
 ## Wonjun Kang (1430538)
 
 Add your screen captures to a new directory called [images](images).
-![Screen Capture #1](images/image-01.png)
+![Screen Capture #1](images/image-01M.png)
 
 <!-- **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
