@@ -37,6 +37,9 @@ The first argument is the Alt-text for the image. The second argument is the pat
   ![Screen Capture #6](images/image-06.png)
 
 - [10 pts] A screen capture showing a successful build using the Maven script.
+  ![Screen Capture #7](images/image-07.png)
+  ![Screen Capture #8](images/image-08.png)
+
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
 
