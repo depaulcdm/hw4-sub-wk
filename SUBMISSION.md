@@ -25,6 +25,8 @@ The first argument is the Alt-text for the image. The second argument is the pat
   ![Screen Capture #4](images/image-04.png)
   
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
+  ![Screen Capture #5](images/image-05.png)
+
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
 
 # Maven [30 pts]
